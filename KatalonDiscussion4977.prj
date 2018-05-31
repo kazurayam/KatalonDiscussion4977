@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>https://forum.katalon.com/discussion/4977/katalon-css-xpath-not-working-with-svg-charts</description>
+   <name>KatalonDiscussion4977</name>
+   <tag></tag>
+   <UUID>88463e84-c98d-4783-90d4-4f4992b6fec9</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

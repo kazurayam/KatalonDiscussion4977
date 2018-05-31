@@ -1,0 +1,13 @@
+*~
+
+.swp
+
+\.classpath
+\.project
+\.settings/
+bin/lib/
+Libs/
+
+Reports/
+/bin/
+
