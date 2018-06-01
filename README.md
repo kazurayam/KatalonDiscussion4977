@@ -14,7 +14,7 @@ Question raised there was:
 
 >Katalon CSS/Xpath not working with SVG charts
 >Hi,
->We are working with SVG charts for our applications, the identification via spy web is not working. 
+>We are working with SVG charts for our applications, the identification via spy web is not working.
 >Basic Application available at : https://www.highcharts.com/demo/line-basic
 
 # Problem to solve
@@ -24,3 +24,9 @@ TODO
 # Description
 
 TODO
+
+# Reference
+
+1. [W3CSchool / XML Namespaces](https://www.w3schools.com/xml/xml_namespaces.asp)
+2. [MDN WebDocs / XPath namespace-uri() function](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions/namespace-uri)
+2. [MDN WebDocs / XPath local-name() function](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions/local-name)
