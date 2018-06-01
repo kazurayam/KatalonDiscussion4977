@@ -85,7 +85,9 @@ The svg node with the Namespace-uri `http://www.w3.org/2000/svg` can be selected
 //div[@id="container"]/div/*[namespace-uri() = "http://www.w3.org/2000/svg" and local-name()="svg"]
 ```
 
-However, the target document has only one node named `svg`, so that you can relax the predicate omitting the namespace-uri. The following XPath expression works as well:
+However, the target document happend to have only one node named `svg`, and you do not have 2 more more `svg` node which belongs to different namespaces.
+
+Therefore you can relax the predicate omitting a condition `namespace-uri()="..."` . The following XPath expression works as well:
 
 ```
 //div[@id="container"]/div/*[local-name()="svg"]
