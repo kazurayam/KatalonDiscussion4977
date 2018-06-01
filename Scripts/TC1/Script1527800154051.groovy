@@ -24,8 +24,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.highcharts.com/demo/line-basic')
 
-WebUI.waitForElementPresent(findTestObject('Page_Basic line  Hightcharts/a_Basic line'), 10)
-WebUI.verifyElementPresent(findTestObject('Page_Basic line  Hightcharts/a_Basic line'), 10)
+WebUI.waitForElementPresent(findTestObject('Page_Basic line  Highcharts/a_Basic line'), 10)
+WebUI.verifyElementPresent(findTestObject('Page_Basic line  Highcharts/a_Basic line'), 10)
 
 WebUI.verifyElementPresent(findTestObject('Page_Basic line  Highcharts/svg'), 10)
 
